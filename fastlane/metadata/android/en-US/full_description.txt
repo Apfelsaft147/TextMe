@@ -1,0 +1,2 @@
+This app is a social media based on only text messages.
+You can only write text messages.
