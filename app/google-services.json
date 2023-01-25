@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318915289145",
+    "firebase_url": "https://textsocialmedia-fc007-default-rtdb.firebaseio.com",
+    "project_id": "textsocialmedia-fc007",
+    "storage_bucket": "textsocialmedia-fc007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318915289145:android:93fb6a54e8bb4c6a1eede8",
+        "android_client_info": {
+          "package_name": "io.ushowcasedev.textmesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318915289145-1l9f29u040llnfi035ta64c0bjqd7uq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IOW8PCAkg0r5M0uTgWooez4ZnvrhUsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318915289145-1l9f29u040llnfi035ta64c0bjqd7uq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
